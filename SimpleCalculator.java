@@ -17,7 +17,6 @@ public class SimpleCalculator {
 
         double result;
 
-        // Using switch logic for cleaner code than multiple if-else statements
         switch (operator) {
             case '+':
                 result = num1 + num2;
